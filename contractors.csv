@@ -1,0 +1,26 @@
+contractor_id,contractor_name,years_experience,grade,workforce_size,safety_incidents_last_3y
+C001,Apex Infra,5,C,593,7
+C002,BuildRight Constructions,27,B,323,5
+C003,Shree Ganesh Builders,23,A,235,3
+C004,Metro Civil Works,17,B,525,3
+C005,Sunrise Developers,16,A,616,4
+C006,Titan Projects,30,C,848,8
+C007,Bharat Engineering,5,B,415,5
+C008,Kaveri Constructions,25,C,178,8
+C009,Himalaya Infra,9,B,756,4
+C010,Orion Builders,6,C,581,5
+C011,Vishwakarma & Sons,19,C,642,7
+C012,Prime Structures,34,C,123,4
+C013,Deccan Civil,26,A,308,5
+C014,Ganga Infratech,27,B,700,4
+C015,Lotus Builders,25,A,755,2
+C016,Rajdhani Constructions,28,A,414,2
+C017,Skyline Engineers,19,B,732,4
+C018,Narmada Projects,7,B,763,5
+C019,Mahalaxmi Builders,29,C,373,7
+C020,Zenith Infra,17,B,812,4
+C021,Surya Constructions,19,B,287,3
+C022,Konkan Developers,14,B,246,2
+C023,Trident Civil,8,A,626,1
+C024,Aravali Builders,32,A,587,1
+C025,Pioneer Infra,28,B,160,4

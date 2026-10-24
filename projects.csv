@@ -1,0 +1,305 @@
+project_id,project_name,project_type,city,contractor_id,start_date,planned_end_date,actual_end_date,planned_duration_days,delay_days,permit_delay_days,size_sqft,planned_budget_cr,actual_cost_cr,status
+P0001,Delhi Residential Project 1,Residential,Delhi,C022,2021-02-21,2023-02-21,2023-11-25,730,277.0,27.0,21979.0,28.49,32.6,Completed
+P0002,Ahmedabad Commercial Project 2,Commercial,Ahmedabad,C008,2022-11-30,2025-01-30,2025-08-25,792,207.0,0.0,100158.0,54.84,65.66,Completed
+P0003,Mumbai Industrial Project 3,Industrial,Mumbai,C003,2024-09-26,2026-05-26,2026-08-27,607,93.0,10.0,115390.0,57.47,64.38,Completed
+P0004,Mumbai Water Pipeline Project 4,Water Pipeline,bengaluru,C008,2023-11-03,2024-11-03,2025-02-17,366,106.0,41.0,,23.96,27.94,Completed
+P0005,Delhi Industrial Project 5,Industrial,Delhi,C002,2024-08-29,2026-06-29,,669,,51.0,61640.0,70.05,,In Progress
+P0006,Ahmedabad Bridge Project 6,Bridge,Ahmedabad,C014,2023-09-23,2025-07-23,2025-11-28,669,128.0,0.0,,41.16,48.41,Completed
+P0007,Kolkata Water Pipeline Project 7,Water Pipeline,Kolkata,C016,2021-01-07,2021-12-07,2021-12-07,334,0.0,22.0,,25.06,26.2,Completed
+P0008,Mumbai Residential Project 8,Residential,Mumbai,C010,2025-03-29,2026-10-29,,579,,31.0,94535.0,25.14,,In Progress
+P0009,Chennai Road Project 9,Road,Chennai,C018,2021-09-07,2022-12-07,2023-03-11,456,94.0,22.0,,28.43,34.28,Completed
+P0010,Pune Residential Project 10,Residential,Pune,C024,2022-03-16,2024-04-16,2024-09-03,762,140.0,24.0,44028.0,44.63,48.39,Completed
+P0011,Ahmedabad Road Project 11,Road,Ahmedabad,C008,2023-01-25,2024-01-25,2024-05-21,365,117.0,47.0,,24.41,29.48,Completed
+P0012,Hyderabad Road Project 12,Road,Hyderabad,C015,2023-10-28,2025-01-28,2025-03-27,458,58.0,46.0,,43.6,50.79,Completed
+P0013,Nagpur Road Project 13,Road,Nagpur,C019,2024-09-05,2025-11-05,2026-02-08,426,95.0,21.0,,28.14,33.09,Completed
+P0014,Chennai Commercial Project 14,Commercial,Chennai,C002,2021-07-03,2023-11-03,2024-04-10,853,159.0,19.0,140248.0,66.79,79.34,Completed
+P0015,Jaipur Bridge Project 15,Bridge,Jaipur,C001,2022-10-19,2024-02-19,2024-05-31,488,102.0,42.0,,22.05,24.1,Completed
+P0016,Bengaluru Water Pipeline Project 16,Water Pipeline,Bengaluru,C002,2025-04-22,2026-04-22,2026-06-04,365,43.0,34.0,,29.19,33.23,Completed
+P0017,Ahmedabad Residential Project 17,Residential,Ahmedabad,C006,2022-10-23,2024-05-23,2024-12-16,578,207.0,57.0,109206.0,29.19,36.76,Completed
+P0018,Nagpur Residential Project 18,Residential,Nagpur,C013,2022-12-10,2024-06-10,2024-09-21,548,103.0,30.0,175085.0,18.44,20.37,Completed
+P0019,Jaipur Water Pipeline Project 19,Water Pipeline,Jaipur,C002,2021-11-04,2022-08-04,2022-08-14,273,10.0,47.0,,8.9,9.62,Completed
+P0020,Hyderabad Industrial Project 20,Industrial,Hyderabad,C022,2023-10-05,2025-03-05,2025-06-15,517,102.0,29.0,62816.0,40.59,47.45,Completed
+P0021,Bengaluru Industrial Project 21,Industrial,delhi,C013,2022-11-12,2024-06-12,2024-08-25,578,74.0,9.0,247965.0,54.85,60.44,Completed
+P0022,Jaipur Commercial Project 22,Commercial,Jaipur,C025,2024-12-20,2027-01-20,,761,,39.0,46197.0,41.44,,In Progress
+P0023,Pune Commercial Project 23,Commercial,Pune,C015,2023-04-11,2025-01-11,2025-05-17,641,126.0,0.0,85581.0,48.01,52.23,Completed
+P0024,Ahmedabad Water Pipeline Project 24,Water Pipeline,Ahmedabad,C013,2024-02-13,2024-11-13,2025-01-22,274,70.0,3.0,,11.89,13.14,Completed
+P0025,Jaipur Road Project 25,Road,Jaipur,C017,2021-09-01,2022-11-01,2022-12-08,426,37.0,61.0,,55.75,62.16,Completed
+P0026,Delhi Commercial Project 26,Commercial,Delhi,C022,2025-04-07,2027-08-07,,852,,13.0,25210.0,62.71,,In Progress
+P0027,Hyderabad Water Pipeline Project 27,Water Pipeline,Hyderabad,C021,2025-02-14,2025-12-14,2026-02-14,303,62.0,4.0,,26.92,30.81,Completed
+P0028,Mumbai Industrial Project 28,Industrial,Mumbai,C019,2024-03-14,2025-11-14,2026-03-15,610,121.0,54.0,84540.0,74.46,89.57,Completed
+P0029,Chennai Road Project 29,Road,Chennai,C001,2023-08-23,2024-08-23,2024-10-02,366,40.0,4.0,,25.96,32.14,Completed
+P0030,Ahmedabad Residential Project 30,Residential,Ahmedabad,C018,2023-07-22,2025-01-22,2025-04-19,550,87.0,2.0,61590.0,21.74,23.41,Completed
+P0031,Chennai Industrial Project 31,Industrial,Chennai,C025,2021-07-08,2023-01-08,2023-07-20,549,193.0,0.0,59730.0,47.54,59.48,Completed
+P0032,Chennai Residential Project 32,Residential,Chennai,C003,2022-08-01,2024-02-01,2024-03-24,549,52.0,7.0,104021.0,16.74,18.01,Completed
+P0033,Jaipur Water Pipeline Project 33,Water Pipeline,Jaipur,C019,2022-07-02,2023-04-02,2023-06-01,274,60.0,0.0,,11.99,14.2,Completed
+P0034,Nagpur Bridge Project 34,Bridge,Nagpur,C006,2023-07-23,2025-08-23,2026-04-07,762,227.0,0.0,,61.04,78.17,Completed
+P0035,Delhi Road Project 35,Road,Delhi,C020,2024-09-22,2026-01-22,2026-06-25,487,154.0,50.0,,34.79,40.46,Completed
+P0036,Hyderabad Industrial Project 36,Industrial,Hyderabad,C012,2021-10-20,2023-05-20,2023-10-17,577,150.0,16.0,179696.0,62.81,76.32,Completed
+P0037,Kolkata Water Pipeline Project 37,Water Pipeline,Kolkata,C003,2023-06-23,2024-01-23,2024-02-01,214,9.0,6.0,,14.77,15.82,Completed
+P0038,Mumbai Residential Project 38,Residential,Mumbai,C016,2022-08-31,2024-07-31,2024-10-17,700,78.0,36.0,40717.0,54.11,58.32,Completed
+P0039,Hyderabad Residential Project 39,Residential,Hyderabad,C022,2021-02-16,2022-07-16,2022-12-09,515,146.0,38.0,64446.0,27.35,31.85,Completed
+P0040,Bengaluru Commercial Project 40,Commercial,Bengaluru,C015,2022-01-19,2023-12-19,2024-03-12,699,84.0,30.0,42035.0,27.54,29.44,Completed
+P0041,Pune Bridge Project 41,Bridge,Pune,C004,2021-02-02,2023-08-02,2024-02-07,911,189.0,28.0,,84.49,92.65,Completed
+P0042,Jaipur Road Project 42,Road,Jaipur,C012,2022-01-17,2023-03-17,2023-08-02,424,138.0,0.0,,46.08,57.56,Completed
+P0043,Nagpur Residential Project 43,Residential,Nagpur,C020,2023-05-30,2024-09-30,2025-03-10,489,161.0,65.0,73634.0,15.05,17.17,Completed
+P0044,Hyderabad Commercial Project 44,Commercial,Hyderabad,C014,2024-06-16,2026-10-16,,852,,39.0,154786.0,60.41,,In Progress
+P0045,Kolkata Residential Project 45,Residential,Kolkata,C005,2024-07-29,2026-03-29,2026-07-13,608,106.0,30.0,200604.0,14.76,16.87,Completed
+P0046,Bengaluru Bridge Project 46,Bridge,Bengaluru,C002,2021-10-01,2023-11-01,2024-09-25,761,329.0,23.0,,73.98,89.83,Completed
+P0047,Chennai Residential Project 47,Residential,Chennai,C023,2021-10-16,2023-04-16,2023-05-24,547,38.0,10.0,64747.0,28.05,31.87,Completed
+P0048,Delhi Industrial Project 48,Industrial,Delhi,C005,2021-01-29,2023-02-28,2023-07-26,760,148.0,25.0,138072.0,78.26,90.22,Completed
+P0049,Chennai Road Project 49,Road,Chennai,C019,2024-02-08,2025-06-08,2025-09-05,486,89.0,18.0,,54.14,63.62,Completed
+P0050,Jaipur Road Project 50,Road,Jaipur,C011,2022-10-07,2023-10-07,2023-12-28,365,82.0,16.0,,20.35,24.04,Completed
+P0051,Ahmedabad Residential Project 51,Residential,Ahmedabad,C005,2023-10-16,2024-10-16,2024-12-31,366,76.0,25.0,20537.0,14.82,15.57,Completed
+P0052,Nagpur Industrial Project 52,Industrial,Nagpur,C024,2023-06-20,2024-07-20,2024-09-02,396,44.0,7.0,58227.0,21.67,25.3,Completed
+P0053,Delhi Residential Project 53,Residential,Delhi,C025,2023-09-21,2025-06-21,2026-03-26,639,278.0,32.0,209444.0,31.75,37.21,Completed
+P0054,Bengaluru Road Project 54,Road,Bengaluru,C015,2025-01-17,2026-04-17,2026-06-01,455,45.0,25.0,,28.88,31.79,Completed
+P0055,Mumbai Bridge Project 55,Bridge,Mumbai,C009,2021-11-10,2024-05-10,2025-01-02,912,237.0,23.0,,109.33,130.6,Completed
+P0056,Mumbai Residential Project 56,Residential,Mumbai,C012,2023-04-05,2024-12-05,2025-06-14,610,191.0,4.0,71114.0,25.94,29.13,Completed
+P0057,Delhi Residential Project 57,Residential,Delhi,C007,2024-05-05,2026-01-05,2026-07-01,610,177.0,43.0,68730.0,28.29,32.29,Completed
+P0058,Jaipur Residential Project 58,Residential,Jaipur,C024,2022-04-27,2023-06-27,2023-07-30,426,33.0,8.0,16300.0,18.53,20.74,Completed
+P0059,Pune Residential Project 59,Residential,Pune,C022,2024-09-01,2026-04-01,2026-09-10,577,162.0,32.0,43591.0,20.29,24.61,Completed
+P0060,Bengaluru Water Pipeline Project 60,Water Pipeline,Bengaluru,C011,2021-07-10,2022-05-10,2022-06-25,304,46.0,26.0,,21.68,26.43,Completed
+P0061,Pune Commercial Project 61,Commercial,Pune,C007,2023-04-26,2026-01-26,2026-06-19,1006,144.0,52.0,146459.0,77.19,87.26,Completed
+P0062,Chennai Industrial Project 62,Industrial,Chennai,C001,2024-05-13,2025-10-13,2026-01-25,518,104.0,33.0,226229.0,40.83,48.0,Completed
+P0063,Mumbai Water Pipeline Project 63,Water Pipeline,Mumbai,C013,2022-08-12,2024-01-12,2024-02-28,518,47.0,1.0,,56.67,65.47,Completed
+P0064,Chennai Water Pipeline Project 64,Water Pipeline,Chennai,C001,2022-05-24,2023-08-24,2023-11-23,457,91.0,30.0,,27.44,29.96,Completed
+P0065,Nagpur Industrial Project 65,Industrial,Nagpur,C019,2023-12-14,2025-01-14,2025-07-16,397,183.0,10.0,95899.0,16.58,21.42,Completed
+P0066,Bengaluru Bridge Project 66,Bridge,Bengaluru,C016,2024-06-07,2027-09-07,,1187,,4.0,,149.05,,In Progress
+P0067,Nagpur Residential Project 67,Residential,Nagpur,C002,2024-05-29,2026-02-28,2026-07-14,640,136.0,29.0,74665.0,34.11,38.24,Completed
+P0068,Ahmedabad Commercial Project 68,Commercial,Ahmedabad,C008,2023-11-09,2025-07-09,2026-02-14,608,220.0,0.0,95443.0,23.79,29.28,Completed
+P0069,Jaipur Residential Project 69,Residential,Jaipur,C012,2021-09-30,2023-04-30,2024-01-08,577,253.0,54.0,60987.0,26.11,31.58,Completed
+P0070,Bengaluru Road Project 70,Road,Bengaluru,C004,2024-02-12,2025-05-12,2025-08-04,455,84.0,41.0,,38.02,42.42,Completed
+P0071,Delhi Commercial Project 71,Commercial,Delhi,C004,2024-03-04,2026-05-04,2026-08-05,791,93.0,32.0,109321.0,65.56,72.72,Completed
+P0072,Ahmedabad Industrial Project 72,Industrial,Ahmedabad,C019,2022-01-25,2023-03-25,2023-09-06,424,165.0,18.0,75455.0,25.26,31.33,Completed
+P0073,Jaipur Residential Project 73,Residential,Jaipur,C014,2024-03-23,2025-01-23,2025-05-17,306,114.0,24.0,58767.0,8.71,10.25,Completed
+P0074,Delhi Bridge Project 74,Bridge,Delhi,C014,2021-02-06,2023-05-06,2024-04-27,819,357.0,44.0,,59.14,71.67,Completed
+P0075,Nagpur Commercial Project 75,Commercial,Nagpur,C014,2024-07-02,2026-06-02,,700,,14.0,77742.0,55.46,,In Progress
+P0076,Delhi Bridge Project 76,Bridge,Delhi,C025,2024-04-23,2027-07-23,,1186,,0.0,,78.79,,In Progress
+P0077,Hyderabad Residential Project 77,Residential,Hyderabad,C015,2022-04-05,2023-11-05,2024-01-04,579,60.0,12.0,174980.0,25.66,28.51,Completed
+P0078,Nagpur Industrial Project 78,Industrial,Nagpur,C006,2021-08-07,2022-12-07,2023-02-26,487,81.0,0.0,37467.0,32.95,41.06,Completed
+P0079,Nagpur Road Project 79,Road,Nagpur,C024,2025-01-22,2026-06-22,,516,,33.0,,51.51,,In Progress
+P0080,Pune Residential Project 80,Residential,Pune,C018,2024-08-08,2026-05-08,,638,,25.0,61943.0,36.9,,In Progress
+P0081,Mumbai Water Pipeline Project 81,Water Pipeline,Mumbai,C013,2021-07-06,2023-01-06,2023-06-06,549,151.0,49.0,,54.95,64.66,Completed
+P0082,Jaipur Road Project 82,Road,Jaipur,C020,2022-07-13,2023-07-13,2023-10-09,365,88.0,9.0,,37.01,44.62,Completed
+P0083,Pune Industrial Project 83,Industrial,Pune,C013,2024-12-17,2026-06-17,2026-08-31,547,75.0,17.0,77747.0,39.49,45.4,Completed
+P0084,Mumbai Residential Project 84,Residential,Mumbai,C003,2022-11-21,2024-07-21,2024-09-23,608,64.0,60.0,65479.0,30.35,31.0,Completed
+P0085,Chennai Industrial Project 85,Industrial,Chennai,C014,2023-05-13,2024-09-13,2025-01-23,489,132.0,26.0,167547.0,32.32,37.43,Completed
+P0086,Kolkata Commercial Project 86,Commercial,Kolkata,C008,2022-08-05,2024-01-05,2024-05-17,518,133.0,38.0,52791.0,19.2,23.91,Completed
+P0087,Mumbai Industrial Project 87,Industrial,Mumbai,C010,2021-10-11,2023-07-11,2024-03-08,638,241.0,27.0,86127.0,83.28,93.04,Completed
+P0088,Hyderabad Residential Project 88,Residential,Hyderabad,C016,2021-12-15,2023-03-15,2023-04-10,455,26.0,5.0,62770.0,23.35,26.59,Completed
+P0089,Chennai Residential Project 89,Residential,Chennai,C002,2022-04-01,2023-09-01,2023-11-15,518,75.0,23.0,23274.0,16.4,18.84,Completed
+P0090,Hyderabad Residential Project 90,Residential,Hyderabad,C004,2023-04-05,2024-07-05,2024-09-09,457,66.0,37.0,122126.0,15.18,16.9,Completed
+P0091,Kolkata Road Project 91,Road,Kolkata,C005,2024-08-04,2025-12-04,2026-03-02,487,88.0,19.0,,29.56,35.28,Completed
+P0092,Hyderabad Residential Project 92,Residential,Hyderabad,C008,2023-12-10,2025-09-10,2026-01-31,640,143.0,15.0,38755.0,53.65,63.47,Completed
+P0093,Bengaluru Commercial Project 93,Commercial,Bengaluru,C010,2025-01-08,2026-12-08,,699,,15.0,287500.0,36.35,,In Progress
+P0094,Ahmedabad Residential Project 94,Residential,Ahmedabad,C002,2021-07-02,2022-11-02,2023-03-18,488,136.0,24.0,35695.0,9.08,10.78,Completed
+P0095,Delhi Residential Project 95,Residential,Delhi,C011,2024-12-17,2027-01-17,,761,,14.0,51741.0,43.38,,In Progress
+P0096,Nagpur Commercial Project 96,Commercial,Nagpur,C020,2023-07-13,2025-07-13,2026-04-19,731,280.0,56.0,102983.0,40.99,50.36,Completed
+P0097,Hyderabad Commercial Project 97,Commercial,Hyderabad,C011,2024-02-29,2025-09-29,2026-05-13,578,226.0,0.0,57108.0,51.04,61.46,Completed
+P0098,Bengaluru Road Project 98,Road,Bengaluru,C009,2023-05-26,2024-07-26,2024-11-06,427,103.0,24.0,,27.13,32.11,Completed
+P0099,Nagpur Commercial Project 99,Commercial,Nagpur,C006,2023-04-12,2025-01-12,2025-10-15,641,276.0,38.0,70987.0,33.12,41.97,Completed
+P0100,Nagpur Water Pipeline Project 100,Water Pipeline,Nagpur,C022,2022-09-13,2023-08-13,2023-10-19,334,67.0,25.0,,21.29,24.75,Completed
+P0101,Bengaluru Residential Project 101,Residential,Bengaluru,C019,2022-12-16,2024-04-16,2024-09-12,487,149.0,30.0,21840.0,11.3,14.34,Completed
+P0102,Mumbai Road Project 102,Road,Mumbai,C002,2022-03-04,2023-04-04,2023-08-03,396,121.0,0.0,,33.24,37.1,Completed
+P0103,Nagpur Industrial Project 103,Industrial,Nagpur,C005,2022-09-08,2023-08-08,2023-11-13,334,97.0,40.0,75515.0,23.32,26.01,Completed
+P0104,Nagpur Commercial Project 104,Commercial,Nagpur,C024,2022-08-08,2024-08-08,2024-12-13,731,127.0,11.0,36026.0,34.64,40.82,Completed
+P0105,Jaipur Residential Project 105,Residential,Jaipur,C014,2023-09-18,2024-10-18,2024-11-11,396,24.0,24.0,149379.0,11.53,13.4,Completed
+P0106,Ahmedabad Road Project 106,Road,Ahmedabad,C024,2021-12-05,2023-02-05,2023-04-17,427,71.0,0.0,,28.37,32.32,Completed
+P0107,Hyderabad Industrial Project 107,Industrial,Hyderabad,C025,2024-10-28,2026-12-28,,791,,9.0,108524.0,54.33,,In Progress
+P0108,Ahmedabad Water Pipeline Project 108,Water Pipeline,Ahmedabad,C012,2025-02-23,2026-01-23,2026-03-12,334,48.0,43.0,,23.17,27.46,Completed
+P0109,Jaipur Industrial Project 109,Industrial,Jaipur,C003,2024-02-16,2025-10-16,2025-12-28,608,73.0,14.0,230446.0,49.82,53.45,Completed
+P0110,Chennai Residential Project 110,Residential,Chennai,C005,2025-03-11,2027-03-11,,730,,2.0,58231.0,40.53,,In Progress
+P0111,Pune Industrial Project 111,Industrial,Pune,C025,2024-12-29,2026-07-29,,577,,,27912.0,52.79,,In Progress
+P0112,Kolkata Bridge Project 112,Bridge,Kolkata,C020,2023-02-03,2025-04-03,2025-09-06,790,156.0,0.0,,54.61,61.41,Completed
+P0113,Kolkata Industrial Project 113,Industrial,Kolkata,C012,2022-05-14,2023-08-14,2023-12-13,457,121.0,0.0,177448.0,31.04,36.51,Completed
+P0114,Pune Water Pipeline Project 114,Water Pipeline,Pune,C022,2025-03-24,2026-05-24,2026-07-17,426,54.0,20.0,,37.46,43.54,Completed
+P0115,Delhi Water Pipeline Project 115,Water Pipeline,Delhi,C014,2023-03-13,2024-04-13,2024-07-31,397,109.0,69.0,,24.9,29.88,Completed
+P0116,Nagpur Residential Project 116,Residential,Nagpur,C012,2021-12-23,2023-10-23,2024-02-17,669,117.0,20.0,130964.0,35.22,42.96,Completed
+P0117,Pune Road Project 117,Road,Pune,C017,2024-04-27,2025-10-27,2026-01-29,548,94.0,39.0,,47.82,52.61,Completed
+P0118,Kolkata Commercial Project 118,Commercial,Kolkata,C014,2023-04-01,2024-07-01,2024-10-23,457,114.0,0.0,56162.0,45.51,53.09,Completed
+P0119,Delhi Road Project 119,Road,Delhi,C006,2023-08-03,2024-11-03,2025-04-05,458,153.0,55.0,,35.15,42.16,Completed
+P0120,Jaipur Industrial Project 120,Industrial,Jaipur,C018,2023-10-22,2025-02-22,2025-06-08,489,106.0,70.0,176364.0,30.13,34.33,Completed
+P0121,Jaipur Road Project 121,Road,Jaipur,C025,2023-09-21,2024-09-21,2024-11-29,366,69.0,25.0,,18.39,20.55,Completed
+P0122,Nagpur Bridge Project 122,Bridge,Nagpur,C009,2021-07-27,2024-03-27,2024-11-10,974,228.0,0.0,,89.59,110.62,Completed
+P0123,Nagpur Water Pipeline Project 123,Water Pipeline,Nagpur,C004,2022-06-03,2023-09-03,2024-01-11,457,130.0,27.0,,38.78,43.52,Completed
+P0124,Chennai Commercial Project 124,Commercial,Chennai,C020,2023-01-26,2025-01-26,2025-08-09,731,195.0,,81409.0,57.38,66.05,Completed
+P0125,Delhi Commercial Project 125,Commercial,Delhi,C020,2022-11-26,2024-05-26,2024-09-14,547,111.0,12.0,112104.0,33.52,38.56,Completed
+P0126,Nagpur Commercial Project 126,Commercial,Nagpur,C018,2022-01-16,2023-12-16,2024-05-03,699,139.0,26.0,242439.0,39.72,43.01,Completed
+P0127,Chennai Residential Project 127,Residential,Chennai,C020,2021-02-07,2022-07-07,2022-08-25,515,49.0,0.0,160687.0,19.94,22.82,Completed
+P0128,Nagpur Industrial Project 128,Industrial,Nagpur,C009,2022-12-30,2024-03-30,2024-08-12,456,135.0,37.0,66023.0,61.74,73.64,Completed
+P0129,Jaipur Industrial Project 129,Industrial,Jaipur,C003,2024-05-02,2025-04-02,2025-05-13,335,41.0,55.0,114637.0,23.38,25.58,Completed
+P0130,Jaipur Residential Project 130,Residential,Jaipur,C021,2023-08-16,2024-12-16,2025-02-25,488,71.0,36.0,25123.0,20.23,22.18,Completed
+P0131,Kolkata Water Pipeline Project 131,Water Pipeline,Kolkata,C011,2023-11-27,2024-08-27,2024-11-09,274,74.0,40.0,,11.31,13.58,Completed
+P0132,Pune Residential Project 132,Residential,nagpur,C008,2023-12-07,2025-03-07,2025-07-03,456,118.0,1.0,41600.0,16.41,19.03,Completed
+P0133,Kolkata Residential Project 133,Residential,Kolkata,C020,2024-08-21,2026-01-21,2026-08-14,518,205.0,25.0,72564.0,30.61,36.62,Completed
+P0134,Delhi Residential Project 134,Residential,Delhi,C023,2023-03-31,2025-02-28,2025-03-20,700,20.0,0.0,47961.0,40.03,43.07,Completed
+P0135,Hyderabad Commercial Project 135,Commercial,Hyderabad,C012,2021-08-01,2023-02-01,2023-09-13,549,224.0,34.0,65887.0,26.25,32.95,Completed
+P0136,Jaipur Bridge Project 136,Bridge,Jaipur,C003,2024-04-07,2027-05-07,,1125,,0.0,,89.9,,In Progress
+P0137,Delhi Industrial Project 137,Industrial,Delhi,C023,2021-07-07,2022-12-07,2023-03-01,518,84.0,26.0,86936.0,42.07,51.49,Completed
+P0138,Delhi Industrial Project 138,Industrial,Delhi,C016,2022-09-23,2024-02-23,2024-07-23,518,151.0,40.0,103408.0,35.51,40.44,Completed
+P0139,Mumbai Industrial Project 139,Industrial,Mumbai,C006,2021-06-06,2022-12-06,2023-07-24,548,230.0,27.0,139623.0,63.93,80.91,Completed
+P0140,Ahmedabad Bridge Project 140,Bridge,Ahmedabad,C025,2022-11-29,2025-02-28,2026-02-04,822,341.0,0.0,,60.22,71.02,Completed
+P0141,Jaipur Residential Project 141,Residential,Jaipur,C006,2024-09-17,2026-07-17,,668,,11.0,68084.0,23.05,,In Progress
+P0142,Bengaluru Road Project 142,Road,Bengaluru,C007,2023-04-07,2024-04-07,2024-08-16,366,131.0,0.0,,17.78,22.14,Completed
+P0143,Bengaluru Commercial Project 143,Commercial,Bengaluru,C016,2023-08-02,2026-03-02,2026-09-09,943,191.0,25.0,149467.0,121.29,132.66,Completed
+P0144,Hyderabad Water Pipeline Project 144,Water Pipeline,Hyderabad,C013,2024-10-27,2025-10-27,2026-01-26,365,91.0,0.0,,26.94,30.24,Completed
+P0145,Hyderabad Residential Project 145,Residential,Hyderabad,C006,2023-01-20,2024-09-20,2025-01-03,609,105.0,37.0,52961.0,17.34,20.55,Completed
+P0146,Mumbai Water Pipeline Project 146,Water Pipeline,Mumbai,C022,2021-03-22,2021-11-22,2021-12-28,245,36.0,14.0,,13.31,15.0,Completed
+P0147,Kolkata Residential Project 147,Residential,Kolkata,C006,2021-06-20,2023-01-20,2023-07-02,579,163.0,0.0,37168.0,28.77,34.61,Completed
+P0148,Ahmedabad Road Project 148,Road,Ahmedabad,C008,2021-11-15,2022-11-15,2023-02-03,365,80.0,0.0,,27.87,32.92,Completed
+P0149,Ahmedabad Water Pipeline Project 149,Water Pipeline,Ahmedabad,C024,2022-04-05,2023-03-05,2023-03-25,334,20.0,45.0,,15.77,18.52,Completed
+P0150,Delhi Residential Project 150,Residential,Delhi,C001,2021-07-29,2023-01-29,2023-07-07,549,159.0,25.0,53233.0,20.47,24.4,Completed
+P0151,Hyderabad Bridge Project 151,Bridge,Hyderabad,C012,2021-04-18,2023-07-18,2024-02-06,821,203.0,8.0,,99.61,122.64,Completed
+P0152,Pune Industrial Project 152,Industrial,Pune,C018,2022-06-06,2024-01-06,2024-03-31,579,85.0,31.0,45945.0,59.52,65.95,Completed
+P0153,Pune Water Pipeline Project 153,Water Pipeline,Pune,C008,2022-06-20,2023-06-20,2023-12-22,365,185.0,59.0,,17.06,21.24,Completed
+P0154,Chennai Bridge Project 154,Bridge,ahmedabad,C016,2023-12-03,2025-10-03,2025-12-20,670,78.0,3.0,,49.71,54.77,Completed
+P0155,Nagpur Commercial Project 155,Commercial,Nagpur,C019,2023-05-04,2024-11-04,2025-05-25,550,202.0,47.0,76359.0,33.06,40.33,Completed
+P0156,Hyderabad Road Project 156,Road,Hyderabad,C025,2024-03-11,2025-07-11,2025-10-18,487,99.0,0.0,,47.5,56.99,Completed
+P0157,Chennai Water Pipeline Project 157,Water Pipeline,Chennai,C012,2021-08-16,2022-10-16,2023-03-10,426,145.0,24.0,,25.2,28.69,Completed
+P0158,Mumbai Residential Project 158,Residential,Mumbai,C006,2023-06-20,2025-02-20,2025-10-01,611,223.0,24.0,52151.0,31.57,37.95,Completed
+P0159,Pune Bridge Project 159,Bridge,Pune,C006,2021-09-05,2024-04-05,2024-11-20,943,229.0,44.0,,81.8,100.3,Completed
+P0160,Kolkata Residential Project 160,Residential,Kolkata,C018,2022-02-20,2023-11-20,2024-04-30,638,162.0,34.0,108946.0,21.32,24.93,Completed
+P0161,Bengaluru Residential Project 161,Residential,Bengaluru,C014,2022-01-17,2023-09-17,2024-02-22,608,158.0,7.0,109565.0,20.19,23.66,Completed
+P0162,Jaipur Commercial Project 162,Commercial,Jaipur,C016,2023-05-15,2025-07-15,2025-12-10,792,148.0,19.0,77093.0,52.55,56.34,Completed
+P0163,Hyderabad Residential Project 163,Residential,Hyderabad,C005,2021-06-15,2022-06-15,2022-07-21,365,36.0,2.0,33316.0,14.02,15.5,Completed
+P0164,Kolkata Road Project 164,Road,Kolkata,C023,2022-03-11,2023-07-11,2023-11-15,487,127.0,11.0,,42.62,49.19,Completed
+P0165,Delhi Road Project 165,Road,Delhi,C012,2022-12-15,2024-02-15,2024-05-08,427,83.0,30.0,,23.02,27.37,Completed
+P0166,Nagpur Road Project 166,Road,Nagpur,C018,2021-08-26,2022-10-26,2023-01-20,426,86.0,12.0,,39.97,43.28,Completed
+P0167,Jaipur Commercial Project 167,Commercial,Jaipur,C012,2021-06-15,2024-01-15,2024-09-25,944,254.0,,27566.0,76.91,92.49,Completed
+P0168,Bengaluru Road Project 168,Road,Bengaluru,C016,2024-05-12,2025-05-12,2025-06-28,365,47.0,45.0,,17.83,18.12,Completed
+P0169,Nagpur Residential Project 169,Residential,Nagpur,C006,2021-08-09,2022-10-09,2023-04-23,426,196.0,13.0,95971.0,11.2,13.79,Completed
+P0170,Nagpur Water Pipeline Project 170,Water Pipeline,Nagpur,C013,2025-02-13,2026-01-13,2026-04-24,334,101.0,15.0,,18.26,21.39,Completed
+P0171,Mumbai Residential Project 171,Residential,Mumbai,C022,2023-10-06,2025-10-06,2025-12-09,731,64.0,18.0,11747.0,57.66,67.25,Completed
+P0172,Chennai Industrial Project 172,Industrial,Chennai,C014,2023-01-17,2024-06-17,2024-09-22,517,97.0,4.0,35759.0,42.92,47.07,Completed
+P0173,Chennai Commercial Project 173,Commercial,Chennai,C024,2023-11-04,2026-11-04,,1096,,1.0,32530.0,88.59,,In Progress
+P0174,Bengaluru Residential Project 174,Residential,Bengaluru,C003,2023-12-31,2024-11-30,2024-12-02,335,2.0,9.0,58232.0,11.25,12.7,Completed
+P0175,Pune Bridge Project 175,Bridge,Pune,C008,2024-03-01,2025-11-01,,610,,4.0,,29.67,,In Progress
+P0176,Chennai Residential Project 176,Residential,Chennai,C009,2024-10-30,2026-04-30,2026-08-03,547,95.0,10.0,62159.0,20.61,23.73,Completed
+P0177,Ahmedabad Commercial Project 177,Commercial,bengaluru,C011,2023-12-19,2025-11-19,2026-05-04,701,166.0,0.0,60838.0,40.47,49.2,Completed
+P0178,Ahmedabad Residential Project 178,Residential,Ahmedabad,C009,2022-12-23,2024-08-23,2024-10-22,609,60.0,19.0,52246.0,27.0,30.88,Completed
+P0179,Nagpur Commercial Project 179,Commercial,Nagpur,C011,2022-05-28,2023-12-28,2024-06-21,579,176.0,44.0,92451.0,21.96,27.18,Completed
+P0180,Mumbai Road Project 180,Road,Mumbai,C007,2025-01-08,2026-09-08,,608,,11.0,,109.69,,In Progress
+P0181,Pune Water Pipeline Project 181,Water Pipeline,Pune,C001,2023-03-21,2024-02-21,2024-06-05,337,105.0,0.0,,13.34,15.83,Completed
+P0182,Bengaluru Water Pipeline Project 182,Water Pipeline,Bengaluru,C025,2022-02-24,2023-01-24,2023-04-26,334,92.0,36.0,,23.7,27.41,Completed
+P0183,Nagpur Residential Project 183,Residential,Nagpur,C013,2022-10-16,2024-02-16,2024-06-13,488,118.0,29.0,30239.0,12.35,14.0,Completed
+P0184,Nagpur Commercial Project 184,Commercial,Nagpur,C005,2021-02-19,2022-12-19,2023-03-28,668,99.0,44.0,113789.0,42.63,49.65,Completed
+P0185,Bengaluru Commercial Project 185,Commercial,Bengaluru,C018,2021-03-30,2022-10-30,2023-02-21,579,114.0,34.0,31968.0,38.3,44.27,Completed
+P0186,Chennai Commercial Project 186,Commercial,Chennai,C014,2021-07-15,2024-12-15,2025-08-14,1249,242.0,15.0,91114.0,179.08,202.56,Completed
+P0187,Hyderabad Water Pipeline Project 187,Water Pipeline,Hyderabad,C009,2024-07-28,2025-08-28,2025-10-25,396,58.0,21.0,,24.87,28.93,Completed
+P0188,Chennai Residential Project 188,Residential,Chennai,C007,2021-03-04,2022-07-04,2022-09-13,487,71.0,26.0,22322.0,14.6,16.91,Completed
+P0189,Bengaluru Commercial Project 189,Commercial,Bengaluru,C009,2022-04-06,2024-03-06,2024-10-11,700,219.0,45.0,92247.0,64.86,75.27,Completed
+P0190,Kolkata Commercial Project 190,Commercial,Kolkata,C001,2024-05-07,2026-06-07,,761,,41.0,106685.0,51.59,,In Progress
+P0191,Hyderabad Water Pipeline Project 191,Water Pipeline,Hyderabad,C003,2021-02-27,2022-06-27,2022-09-30,485,95.0,10.0,,44.06,47.8,Completed
+P0192,Mumbai Road Project 192,Road,Mumbai,C013,2024-09-15,2025-11-15,2026-02-22,426,99.0,32.0,,28.28,32.5,Completed
+P0193,Nagpur Commercial Project 193,Commercial,Nagpur,C011,2024-12-19,2026-11-19,,700,,36.0,78004.0,41.66,,In Progress
+P0194,Hyderabad Road Project 194,Road,Hyderabad,C002,2021-08-28,2023-03-28,2023-08-08,577,133.0,33.0,,89.07,110.01,Completed
+P0195,Hyderabad Industrial Project 195,Industrial,Hyderabad,C025,2023-06-02,2024-10-02,2025-02-14,488,135.0,31.0,59224.0,30.71,35.67,Completed
+P0196,Pune Residential Project 196,Residential,Pune,C009,2023-06-10,2024-10-10,2025-01-31,488,113.0,43.0,48215.0,19.89,22.89,Completed
+P0197,Bengaluru Road Project 197,Road,Bengaluru,C003,2022-02-13,2023-02-13,2023-04-04,365,50.0,31.0,,22.19,23.78,Completed
+P0198,Pune Residential Project 198,Residential,Pune,C018,2021-06-14,2023-09-14,2024-11-03,822,416.0,,106943.0,49.39,57.06,Completed
+P0199,Bengaluru Commercial Project 199,Commercial,Bengaluru,C009,2023-05-21,2024-11-21,2025-02-22,550,93.0,26.0,61096.0,33.25,38.67,Completed
+P0200,Nagpur Road Project 200,Road,Nagpur,C003,2022-06-20,2023-04-20,2023-05-02,304,12.0,,,30.0,32.3,Completed
+P0201,Jaipur Commercial Project 201,Commercial,Jaipur,C010,2023-01-11,2024-11-11,2025-03-24,670,133.0,25.0,113058.0,51.85,59.6,Completed
+P0202,Bengaluru Road Project 202,Road,Bengaluru,C009,2022-09-06,2023-09-06,2023-12-09,365,94.0,21.0,,24.97,29.78,Completed
+P0203,Pune Road Project 203,Road,Pune,C023,2024-01-29,2025-05-29,2025-09-28,486,122.0,40.0,,40.18,47.63,Completed
+P0204,Hyderabad Road Project 204,Road,Hyderabad,C001,2021-07-19,2022-09-19,2022-12-31,427,103.0,12.0,,33.17,38.65,Completed
+P0205,Chennai Bridge Project 205,Bridge,Chennai,C022,2021-06-06,2023-07-06,2024-07-24,760,384.0,36.0,,40.24,48.78,Completed
+P0206,Chennai Residential Project 206,Residential,Chennai,C023,2022-06-20,2024-05-20,2024-08-20,700,92.0,24.0,42020.0,56.06,62.51,Completed
+P0207,Pune Water Pipeline Project 207,Water Pipeline,Pune,C018,2023-08-17,2024-07-17,2024-07-24,335,7.0,12.0,,11.75,12.96,Completed
+P0208,Delhi Bridge Project 208,Bridge,Delhi,C025,2025-02-08,2027-10-08,,972,,0.0,,72.2,,In Progress
+P0209,Delhi Commercial Project 209,Commercial,Delhi,C015,2022-09-12,2024-10-12,2025-01-30,761,110.0,21.0,17564.0,72.08,80.09,Completed
+P0210,Bengaluru Industrial Project 210,Industrial,Bengaluru,C021,2023-02-24,2024-05-24,2024-08-22,455,90.0,37.0,93884.0,39.1,40.43,Completed
+P0211,Pune Residential Project 211,Residential,Pune,C005,2021-09-03,2023-06-03,2023-10-13,638,132.0,47.0,22237.0,21.5,24.93,Completed
+P0212,Bengaluru Industrial Project 212,Industrial,Bengaluru,C021,2022-08-07,2024-07-07,2024-12-25,700,171.0,47.0,28333.0,74.3,86.72,Completed
+P0213,Jaipur Residential Project 213,Residential,Jaipur,C022,2024-11-04,2026-03-04,2026-03-28,485,24.0,7.0,53936.0,16.05,18.47,Completed
+P0214,Mumbai Industrial Project 214,Industrial,Mumbai,C023,2023-02-12,2024-10-12,2025-03-13,608,152.0,41.0,158675.0,54.33,61.6,Completed
+P0215,Jaipur Road Project 215,Road,Jaipur,C018,2021-04-07,2022-05-07,2022-07-15,395,69.0,19.0,,23.72,27.61,Completed
+P0216,Bengaluru Residential Project 216,Residential,Bengaluru,C022,2022-07-31,2024-10-31,2025-09-05,823,309.0,28.0,19308.0,37.85,42.56,Completed
+P0217,Chennai Residential Project 217,Residential,Chennai,C001,2022-03-02,2024-04-02,2025-01-03,762,276.0,45.0,76941.0,22.04,26.39,Completed
+P0218,Mumbai Commercial Project 218,Commercial,Mumbai,C015,2021-01-18,2023-06-18,2024-01-09,881,205.0,11.0,40868.0,87.54,99.26,Completed
+P0219,Ahmedabad Industrial Project 219,Industrial,Ahmedabad,C019,2023-04-13,2024-05-13,2024-12-08,396,209.0,31.0,35914.0,43.72,55.98,Completed
+P0220,Chennai Water Pipeline Project 220,Water Pipeline,Chennai,C013,2022-10-21,2024-03-21,2024-08-16,517,148.0,54.0,,27.31,30.79,Completed
+P0221,Kolkata Water Pipeline Project 221,Water Pipeline,Kolkata,C004,2024-08-16,2025-07-16,2025-07-17,334,1.0,17.0,,18.86,20.52,Completed
+P0222,Mumbai Road Project 222,Road,Mumbai,C007,2024-04-11,2025-08-11,2025-12-18,487,129.0,0.0,,35.81,40.98,Completed
+P0223,Pune Road Project 223,Road,Pune,C017,2022-08-24,2024-01-24,2024-04-10,518,77.0,39.0,,54.7,60.35,Completed
+P0224,Jaipur Road Project 224,Road,Jaipur,C002,2021-03-19,2022-03-19,2022-06-23,365,96.0,36.0,,24.86,28.89,Completed
+P0225,Kolkata Industrial Project 225,Industrial,Kolkata,C016,2021-06-15,2022-10-15,2022-10-31,487,16.0,17.0,43496.0,54.43,56.98,Completed
+P0226,Delhi Road Project 226,Road,Delhi,C005,2021-12-17,2023-01-17,2023-03-23,396,65.0,52.0,,19.6,22.67,Completed
+P0227,Mumbai Industrial Project 227,Industrial,Mumbai,C019,2024-05-21,2025-11-21,,549,,,185337.0,47.59,,In Progress
+P0228,Pune Residential Project 228,Residential,Pune,C024,2021-06-17,2023-06-17,2023-08-16,730,60.0,20.0,39696.0,43.67,46.86,Completed
+P0229,Pune Water Pipeline Project 229,Water Pipeline,Pune,C011,2025-01-12,2026-03-12,2026-06-05,424,85.0,36.0,,34.43,42.65,Completed
+P0230,Nagpur Commercial Project 230,Commercial,Nagpur,C005,2021-02-23,2023-01-23,2023-07-25,699,183.0,14.0,116003.0,32.96,37.1,Completed
+P0231,Kolkata Road Project 231,Road,Kolkata,C017,2024-10-09,2026-01-09,2026-03-19,457,69.0,0.0,,49.31,55.66,Completed
+P0232,Pune Residential Project 232,Residential,Pune,C023,2023-05-17,2025-02-17,2025-08-20,642,184.0,38.0,56145.0,19.41,21.85,Completed
+P0233,Mumbai Water Pipeline Project 233,Water Pipeline,Mumbai,C023,2023-05-01,2024-04-01,2024-05-07,336,36.0,29.0,,17.95,21.03,Completed
+P0234,Ahmedabad Road Project 234,Road,Ahmedabad,C005,2024-05-19,2025-06-19,2025-09-09,396,82.0,22.0,,29.52,34.67,Completed
+P0235,Pune Residential Project 235,Residential,Pune,C014,2023-08-31,2025-02-28,2025-07-17,547,139.0,9.0,119275.0,27.47,31.7,Completed
+P0236,Bengaluru Water Pipeline Project 236,Water Pipeline,Bengaluru,C009,2022-03-27,2023-07-27,2023-10-16,487,81.0,29.0,,41.78,49.73,Completed
+P0237,Pune Road Project 237,Road,Pune,C019,2022-05-26,2023-09-26,2024-05-21,488,238.0,12.0,,38.78,48.88,Completed
+P0238,Bengaluru Residential Project 238,Residential,Bengaluru,C017,2023-05-31,2025-03-31,2025-08-20,670,142.0,0.0,173095.0,30.15,33.99,Completed
+P0239,Bengaluru Industrial Project 239,Industrial,Bengaluru,C002,2024-10-01,2026-06-01,,608,,14.0,70122.0,65.25,,In Progress
+P0240,Bengaluru Industrial Project 240,Industrial,Bengaluru,C020,2023-10-29,2025-04-29,2025-12-09,548,224.0,37.0,43512.0,76.84,91.63,Completed
+P0241,Chennai Road Project 241,Road,Chennai,C012,2021-06-10,2022-07-10,2022-10-27,395,109.0,65.0,,32.33,36.7,Completed
+P0242,Pune Industrial Project 242,Industrial,Pune,C024,2024-07-18,2025-07-18,2025-10-27,365,101.0,0.0,92357.0,17.22,20.34,Completed
+P0243,Bengaluru Water Pipeline Project 243,Water Pipeline,Bengaluru,C022,2023-07-13,2025-01-13,2025-05-22,550,129.0,6.0,,43.63,47.87,Completed
+P0244,Jaipur Residential Project 244,Residential,Jaipur,C017,2022-01-17,2023-10-17,2024-02-21,638,127.0,23.0,177025.0,30.01,33.39,Completed
+P0245,Delhi Residential Project 245,Residential,Delhi,C021,2025-04-17,2026-10-17,,548,,34.0,130718.0,20.01,,In Progress
+P0246,Chennai Industrial Project 246,Industrial,Chennai,C001,2023-11-17,2025-04-17,2025-08-01,517,106.0,39.0,267051.0,30.24,36.6,Completed
+P0247,Hyderabad Commercial Project 247,Commercial,Hyderabad,C015,2023-12-26,2026-10-26,,1035,,29.0,52771.0,78.98,,In Progress
+P0248,Bengaluru Industrial Project 248,Industrial,Bengaluru,C016,2021-04-21,2022-09-21,2022-11-22,518,62.0,12.0,26881.0,26.37,28.13,Completed
+P0249,Pune Road Project 249,Road,Pune,C012,2021-04-15,2022-07-15,2022-11-02,456,110.0,11.0,,23.32,27.18,Completed
+P0250,Bengaluru Residential Project 250,Residential,Bengaluru,C020,2024-03-13,2026-05-13,2026-09-23,791,133.0,26.0,44798.0,58.03,66.94,Completed
+P0251,Hyderabad Water Pipeline Project 251,Water Pipeline,Hyderabad,C022,2023-05-09,2024-08-09,2025-01-05,458,149.0,20.0,,29.98,35.41,Completed
+P0252,Mumbai Commercial Project 252,Commercial,Mumbai,C019,2024-07-07,2026-05-07,,669,,57.0,174248.0,39.5,,In Progress
+P0253,Bengaluru Residential Project 253,Residential,Bengaluru,C007,2022-06-10,2024-01-10,2024-06-01,579,143.0,13.0,158253.0,32.28,37.59,Completed
+P0254,Chennai Industrial Project 254,Industrial,Chennai,C007,2022-07-16,2023-08-16,2023-11-11,396,87.0,16.0,59371.0,32.11,36.95,Completed
+P0255,Kolkata Residential Project 255,Residential,Kolkata,C008,2023-07-27,2025-04-27,2025-12-27,640,244.0,20.0,173093.0,35.82,44.45,Completed
+P0256,Hyderabad Residential Project 256,Residential,Hyderabad,C008,2024-08-27,2026-12-27,,852,,11.0,64025.0,47.89,,In Progress
+P0257,Jaipur Residential Project 257,Residential,Jaipur,C006,2023-06-16,2024-06-16,2024-11-11,366,148.0,17.0,33938.0,9.53,11.74,Completed
+P0258,Nagpur Road Project 258,Road,Nagpur,C011,2023-10-29,2024-10-29,2025-04-28,366,181.0,2.0,,18.32,22.83,Completed
+P0259,Mumbai Road Project 259,Road,Mumbai,C022,2022-04-19,2023-02-19,2023-06-02,306,103.0,23.0,,11.17,12.71,Completed
+P0260,Kolkata Road Project 260,Road,Kolkata,C014,2023-03-24,2024-05-24,2024-09-01,427,100.0,45.0,,33.17,39.56,Completed
+P0261,Kolkata Residential Project 261,Residential,Kolkata,C018,2022-12-19,2024-04-19,2024-07-17,487,89.0,61.0,58546.0,20.17,21.93,Completed
+P0262,Bengaluru Industrial Project 262,Industrial,Bengaluru,C003,2023-07-05,2024-11-05,2025-03-18,489,133.0,20.0,57430.0,47.45,51.05,Completed
+P0263,Ahmedabad Road Project 263,Road,Ahmedabad,C003,2023-06-22,2024-05-22,2024-06-10,335,19.0,45.0,,13.49,14.81,Completed
+P0264,Kolkata Residential Project 264,Residential,Kolkata,C012,2021-02-14,2022-07-14,2022-10-28,515,106.0,1.0,78301.0,12.67,15.2,Completed
+P0265,Nagpur Residential Project 265,Residential,Nagpur,C024,2022-01-23,2023-05-23,2023-06-09,485,17.0,11.0,53097.0,10.87,12.38,Completed
+P0266,Delhi Commercial Project 266,Commercial,Delhi,C006,2024-07-29,2026-10-29,,822,,16.0,63158.0,72.92,,In Progress
+P0267,Chennai Commercial Project 267,Commercial,Chennai,C011,2024-10-31,2027-07-31,,1003,,32.0,49185.0,97.42,,In Progress
+P0268,Delhi Commercial Project 268,Commercial,Delhi,C008,2024-07-11,2026-12-11,,883,,14.0,68519.0,109.47,,In Progress
+P0269,Ahmedabad Commercial Project 269,Commercial,Ahmedabad,C014,2024-08-12,2026-09-12,,761,,42.0,49705.0,58.25,,In Progress
+P0270,Pune Road Project 270,Road,Pune,C023,2022-12-25,2023-12-25,2024-02-17,365,54.0,12.0,,37.4,41.45,Completed
+P0271,Pune Residential Project 271,Residential,Pune,C005,2023-01-12,2024-06-12,2024-10-16,517,126.0,0.0,116765.0,14.24,15.72,Completed
+P0272,Chennai Residential Project 272,Residential,Chennai,C005,2021-08-20,2023-06-20,2023-12-27,669,190.0,74.0,232047.0,63.0,74.81,Completed
+P0273,Chennai Road Project 273,Road,Chennai,C011,2022-05-01,2023-08-01,2024-02-20,457,203.0,48.0,,31.44,40.07,Completed
+P0274,Pune Residential Project 274,Residential,Pune,C011,2024-12-29,2026-05-29,,516,,12.0,39059.0,20.39,,In Progress
+P0275,Delhi Residential Project 275,Residential,Delhi,C022,2023-05-27,2025-07-27,2025-11-10,792,106.0,27.0,44661.0,34.87,38.33,Completed
+P0276,Mumbai Bridge Project 276,Bridge,Mumbai,C011,2023-07-19,2027-02-19,,1311,,0.0,,320.93,,In Progress
+P0277,Kolkata Road Project 277,Road,Kolkata,C012,2024-12-15,2025-11-15,2025-12-21,335,36.0,27.0,,23.22,26.57,Completed
+P0278,Delhi Residential Project 278,Residential,Delhi,C017,2022-03-25,2024-03-25,2024-07-13,731,110.0,47.0,125026.0,35.86,41.21,Completed
+P0279,Hyderabad Residential Project 279,Residential,Hyderabad,C023,2023-04-09,2024-12-09,2025-01-31,610,53.0,11.0,44777.0,23.68,27.03,Completed
+P0280,Mumbai Residential Project 280,Residential,Mumbai,C024,2023-05-08,2025-01-08,2025-05-16,611,128.0,45.0,52246.0,48.56,54.71,Completed
+P0281,Jaipur Water Pipeline Project 281,Water Pipeline,Jaipur,C013,2023-12-11,2024-10-11,2024-12-30,305,80.0,62.0,,10.49,12.09,Completed
+P0282,Kolkata Residential Project 282,Residential,Kolkata,C018,2023-08-16,2026-02-16,2026-08-25,915,190.0,10.0,39661.0,59.84,66.85,Completed
+P0283,Pune Industrial Project 283,Industrial,Pune,C008,2024-07-26,2025-12-26,2026-04-27,518,122.0,10.0,86343.0,63.09,78.52,Completed
+P0284,Ahmedabad Road Project 284,Road,Ahmedabad,C012,2022-01-22,2023-01-22,2023-03-12,365,49.0,16.0,,13.55,16.36,Completed
+P0285,Delhi Bridge Project 285,Bridge,Delhi,C008,2022-12-11,2025-06-11,,913,,33.0,,70.67,,In Progress
+P0286,Ahmedabad Commercial Project 286,Commercial,Ahmedabad,C011,2022-01-06,2023-05-06,2023-08-21,485,107.0,4.0,16160.0,38.82,47.53,Completed
+P0287,Mumbai Industrial Project 287,Industrial,Mumbai,C016,2022-08-12,2024-02-12,2024-06-11,549,120.0,,87786.0,53.34,61.63,Completed
+P0288,Delhi Residential Project 288,Residential,Delhi,C008,2021-10-19,2023-05-19,2023-12-28,577,223.0,,71793.0,30.51,36.46,Completed
+P0289,Bengaluru Commercial Project 289,Commercial,Bengaluru,C017,2023-02-10,2024-12-10,2025-05-25,669,166.0,21.0,290627.0,41.04,45.97,Completed
+P0290,Mumbai Residential Project 290,Residential,Mumbai,C022,2021-12-07,2023-12-07,2024-05-24,730,169.0,57.0,167750.0,37.3,43.03,Completed
+P0291,Ahmedabad Commercial Project 291,Commercial,Ahmedabad,C005,2023-04-20,2026-01-20,,1006,,38.0,119571.0,128.46,,In Progress
+P0292,Jaipur Commercial Project 292,Commercial,Jaipur,C001,2023-08-24,2026-01-24,,884,,72.0,62178.0,65.26,,In Progress
+P0293,Jaipur Commercial Project 293,Commercial,Jaipur,C006,2022-09-10,2024-06-10,2024-12-09,639,182.0,14.0,137904.0,30.49,38.18,Completed
+P0294,Nagpur Residential Project 294,Residential,Nagpur,C007,2021-05-13,2023-01-13,2023-05-22,610,129.0,0.0,73713.0,20.84,24.26,Completed
+P0295,Chennai Road Project 295,Road,Chennai,C009,2021-02-07,2022-07-07,2022-12-10,515,156.0,27.0,,38.75,45.31,Completed
+P0296,Jaipur Commercial Project 296,Commercial,Jaipur,C012,2023-09-27,2025-05-27,2025-10-17,608,143.0,17.0,54428.0,27.14,32.56,Completed
+P0297,Mumbai Commercial Project 297,Commercial,Mumbai,C005,2023-09-14,2025-07-14,2025-12-10,669,149.0,2.0,42526.0,39.9,44.51,Completed
+P0298,Ahmedabad Residential Project 298,Residential,Ahmedabad,C007,2024-02-14,2025-11-14,2026-03-16,639,122.0,19.0,322250.0,27.34,31.89,Completed
+P0299,Mumbai Water Pipeline Project 299,Water Pipeline,Mumbai,C002,2021-02-23,2022-05-23,2022-08-22,454,91.0,40.0,,39.74,45.61,Completed
+P0300,Kolkata Road Project 300,Road,Kolkata,C008,2022-07-14,2023-10-14,2024-01-13,457,91.0,2.0,,50.48,60.1,Completed
+P0190,Kolkata Commercial Project 190,Commercial,Kolkata,C001,2024-05-07,2026-06-07,,761,,41.0,106685.0,51.59,,In Progress
+P0124,Chennai Commercial Project 124,Commercial,Chennai,C020,2023-01-26,2025-01-26,2025-08-09,731,195.0,,81409.0,57.38,66.05,Completed
+P0186,Chennai Commercial Project 186,Commercial,Chennai,C014,2021-07-15,2024-12-15,2025-08-14,1249,242.0,15.0,91114.0,179.08,202.56,Completed
+P0214,Mumbai Industrial Project 214,Industrial,Mumbai,C023,2023-02-12,2024-10-12,2025-03-13,608,152.0,41.0,158675.0,54.33,61.6,Completed
